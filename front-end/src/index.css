@@ -1,0 +1,130 @@
+
+.image{
+    width: 18rem;
+    height: 200px;
+    
+  
+}
+
+.cards
+{  
+    
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+margin-top: 150px;
+justify-content: space-evenly;
+
+
+}
+
+.buttons{
+
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+
+}
+
+
+.btn-edite{
+   
+   text-align: center;
+}
+
+
+.images-detaille{
+
+
+    background-size: auto;
+   
+}
+
+.link-detail{
+    color:black;
+    text-decoration: underline;
+    text-align: center;
+ 
+
+}
+
+.link-detail:hover{
+    color:black
+}
+
+.link-details{
+    color:white;
+    margin-top: -9px;
+    text-align: center;
+}
+.link-details:hover{
+    color:white;
+}
+
+
+
+/*ajouter-card*/
+
+
+.titre-addcarte{
+  color :black
+}
+  
+  
+  
+  
+  
+  .btn-add {
+    color: white;
+
+ 
+  }
+  
+  .btn-ajouter {
+   
+    font-weight: bold;
+  }
+
+ 
+  
+  /*card-detail*/
+
+  .images-detaille {
+    background-color: brown;
+    width: 50px;
+  }
+  
+  .font {
+    font-family: condensed, Arial, sans-serif;
+    text-align: start;
+    color: black;
+  }
+  
+  .style {
+    text-align: start;
+    color: black;
+  }
+  
+  .attribu {
+    text-align: center;
+    color: black;
+  }
+  
+  /*fin card-detail*/
+
+
+
+
+
+.barnav {
+  margin-right: 50px !important;
+}
+
+
+
+footer {
+  background-color: #39cccc;
+}
+
+  
